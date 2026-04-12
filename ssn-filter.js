@@ -9,7 +9,7 @@
 
   // ✏️ 1. PALABRAS A FILTRAR (agrega o quita las que necesites)
   const BLOCKED_WORDS = [
-    "palabra1",
+    "hola",
     "palabra2",
     "palabra3",
   ];
